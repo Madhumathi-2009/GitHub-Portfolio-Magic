@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=E3F988&height=160&section=header&text=GitHub%20Portfolio%20Magic&fontSize=46&fontColor=4A5D23&animation=fadeIn" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3f988&height=200&section=header&text=GitHub-Magic-Portfolio&fontSize=50&fontColor=4A5D23&animation=fadeIn&fontAlignY=35&desc=Using%20Dynamic%20typing%20by%20Jonah%20Lawrence&descAlignY=55&descSize=20" width="100%" />
 </p>
 
 <p align="center">
@@ -53,3 +53,6 @@ Full credits to GitHub Star *Jonah Lawrence (DenverCoder1)* - He discovered this
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhumathi-2009&label=Profile+Views&color=000000&style=flat" />
+</p>
