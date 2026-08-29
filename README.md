@@ -1,8 +1,12 @@
-# ✨ GitHub Portfolio Magic
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=E3F988&height=160&section=header&text=GitHub%20Portfolio%20Magic&fontSize=46&fontColor=4A5D23&animation=fadeIn" width="90%" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=24&pause=1000&color=4B2E83&center=true&vCenter=true&width=435&height=50&lines=I'm+Madhumathi;Cute+GitHub+Portfolio;Learning+in+Public)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&pause=1000&color=4A5D23&center=true&vCenter=true&width=650&lines=Learn+Today%2C+Build+Tomorrow" alt="Typing SVG" /></a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About this repo
 > My handwritten journey of building an aesthetic & professional GitHub portfolio - with ZERO coding!
@@ -32,14 +36,20 @@ My full implementation notes. All my colors, fonts, badge groupings and secret c
 
 ### 🙏 Credits
 Full credits to GitHub Star *Jonah Lawrence (DenverCoder1)* - He discovered this Dynamic README trick!
-
----
-
 ## **Creator** (Jonah Lawrence): https://github.com/DenverCoder1
-### **My Portfolio** : https://github.com/Madhumathi-2009
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=E3F988&height=60&section=header&text=Notes%20by%20Madhumathi&fontSize=20&fontColor=4A5D23&animation=fadeIn" width="90%" />
+</p>
 
-Notes by Madhumathi | Star this repo if you love it!
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=25&pause=1000&color=4A5D23&center=true&vCenter=true&width=650&lines=Star+this+repo+if+you+Love+it" alt="Typing SVG" /></a>
+</p>
 
----
+<p align="center">
+♡ . ݁₊ ⊹ . ݁˖ . ݁  ───────♡ Thanks for visiting ! ♡───────  . ݁₊ ⊹ . ݁˖ . ݁ ♡
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
