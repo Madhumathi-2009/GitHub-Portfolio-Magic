@@ -40,7 +40,7 @@ Full credits to GitHub Star *Jonah Lawrence (DenverCoder1)* - He discovered this
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=E3F988&height=60&section=header&text=Notes%20by%20Madhumathi&fontSize=20&fontColor=4A5D23&animation=fadeIn" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E3F988&height=60&section=header&text=Notes%20by%20Madhumathi&fontSize=20&fontColor=4A5D23&animation=fadeIn" width="90%" />
 </p>
 
 <p align="center">
